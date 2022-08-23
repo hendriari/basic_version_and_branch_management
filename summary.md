@@ -22,3 +22,4 @@ dengan memanagement branch, tidak akan mengganggu branch main
 6. GIT cekout : digunakan untuk memilih branch
 7. GIT pull : digunakan untuk meng-kloning source code pada percabangan branch yang dipilih
 8. GIT merge : digunakan untuk menggabungkan branch aktif dan branch yang dipilih
+
