@@ -1,4 +1,4 @@
-#(03) Basic Version and Branch Management (Git)
+# (03) Basic Version and Branch Management (Git)
 
 ## hendri ari wibowo
 
